@@ -20,7 +20,7 @@ function Businesses() {
   const submitBusinesses = () => {
     axios
       .get(
-        `http://aydanpirani77.pythonanywhere.com/search_loc?query= |${city
+        `https://aydanpirani77.pythonanywhere.com/search_loc?query= |${city
           .split(" ")
           .join("+")}+${state}`
       )

@@ -29,20 +29,20 @@ function Landing() {
             </Flex>
             <Box>
               <Link href="/signup" m="5" p="5">
-                Sign UpS
+                Sign Up
               </Link>
               <Link href="/signin">Sign In</Link>
             </Box>
           </Flex>
           <Flex justifyContent="center" flexDirection="column">
             <Heading as="h1" size="4xl" marginLeft="25px" width="700px">
-              1.Donate
+              1. Donate
             </Heading>
             <Heading as="h1" size="4xl" marginLeft="25px" width="700px">
-              2.Leave a Note
+              2. Leave a Note
             </Heading>
             <Heading as="h1" size="4xl" marginLeft="25px" width="700px">
-              3.Be Kind
+              3. Be Kind
             </Heading>
           </Flex>
           <Flex flexDirection="row" m="10">

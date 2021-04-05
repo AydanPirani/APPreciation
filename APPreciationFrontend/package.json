@@ -2,7 +2,7 @@
   "name": "onehacksfrontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://aydanpirani77.pythonanywhere.com",
+  "proxy": "https://aydanpirani77.pythonanywhere.com",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.8",
     "@chakra-ui/react": "^1.4.2",
